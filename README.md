@@ -78,8 +78,8 @@ Automation scripts and monitoring utilities designed to collect and analyze syst
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=DCMedic&show_icons=true&theme=default" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCMedic&layout=compact" height="150">
 </p>
 
 ---
@@ -96,9 +96,9 @@ Automation for Security Operations
 
 ## Connect
 
-GitHub: https://github.com/YOURUSERNAME  
-LinkedIn: Add your LinkedIn profile  
-ORCID: Add your ORCID profile  
+GitHub: https://github.com/DCMedic  
+LinkedIn: https://www.linkedin.com/in/therealmascolo/
+ORCID: https://orcid.org/0009-0001-8590-2171
 
 ---
 
